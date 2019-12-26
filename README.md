@@ -1,2 +1,2 @@
 # Bachelor_Game
-The Game created for the Bachelor Thesis
+This game was created for my Bachelor Thesis and can be played by anyone who ownes a Leap Motion Controller
