@@ -3,10 +3,10 @@ This game was created for my Bachelor Thesis "Interactive Visualisation to asses
 and can be played by anyone who ownes a Leap Motion Controller.
 
 ## Requirements 
- Leap Motion V2 with v2.3.1 Tracking SDK 
- A physical Leap Motion Controller 
- Tested on Windows 7 and Linux Ubuntu 18.04
- Process "leapd" must be running (either from Terminal on Linux or via the Leap Motion Controll panel on windows)
+* Leap Motion V2 with v2.3.1 Tracking SDK 
+* A physical Leap Motion Controller 
+* Tested on Windows 7 and Linux Ubuntu 18.04
+* Process "leapd" must be running (either from Terminal on Linux or via the Leap Motion Controll panel on windows)
  
 ## Notes 
 If tracking appears to be very unstable check the quality via the "Visualizer" (Leap build-in Tool) and ensure the Leap Motion 
@@ -24,3 +24,7 @@ F: How to change handmodels?
 
 A: Press left or right arrow key in a level (won't change in the menus)
 
+F: How to improve gameplay ? 
+
+A: Move slow, don't obstruct the Leap's view towards the fingers, spread unused fingers appart, use only pinch grips.
+   Pay attention to the visual feedback (especially the changing colours)
