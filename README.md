@@ -1,5 +1,6 @@
 # Bachelor_Game
-This game was created for my Bachelor Thesis and can be played by anyone who ownes a Leap Motion Controller
+This game was created for my Bachelor Thesis "Interactive Visualisation to assess Hand Kinematics" at Heidelberg university
+and can be played by anyone who ownes a Leap Motion Controller.
 
 ## Requirements 
  Leap Motion V2 with v2.3.1 Tracking SDK 
