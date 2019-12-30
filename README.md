@@ -15,9 +15,11 @@ Mark the game as executable for Linux via "chmod +x GameLinux.x86_64" or via "ri
 
 ## FAQ: 
 F: Where is the captured data stored? 
+
 A: For the Linux Build in the GameLinux_Data/Captured folder
    For the Windows Build in the Hand_Kinematics_Game_Data/Captured folder
 
-F: How to change handmodels ?
+F: How to change handmodels?
+
 A: Press left or right arrow key in a level (won't change in the menus)
 
