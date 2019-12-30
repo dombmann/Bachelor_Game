@@ -1,5 +1,5 @@
 # Bachelor_Game
-This game was created for my Bachelor Thesis "Interactive Visualisation to assess Hand Kinematics" at Heidelberg university
+This game was created for my Bachelor Thesis "Interactive Visualisation to assess Hand Kinematics" 
 and can be played by anyone who ownes a Leap Motion Controller.
 
 ## Requirements 
