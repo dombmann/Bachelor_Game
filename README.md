@@ -24,10 +24,10 @@ F: Where is the captured data stored?
 A: For the Linux Build in the GameLinux_Data/Captured folder
    For the Windows Build in the Hand_Kinematics_Game_Data/Captured folder
 
-F: How to change handmodels?
+F: How to change handmodels?  
 A: Press left or right arrow key in a level (won't change in the menues)
 
-F: How to improve gameplay ? 
+F: How to improve gameplay?  
 A: Move slow, don't obstruct the Leap's view towards the fingers, spread unused fingers appart, use only pinch grips.
    Pay attention to the visual feedback (especially the changing colours)
   
