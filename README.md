@@ -12,7 +12,7 @@ and can be played by anyone with access to a Leap Motion Controller.
 If tracking appears to be very unstable check the quality via the "Visualizer" (Leap build-in Tool) and ensure the Leap Motion 
 Controller is calibrated to a value of at least 90. 
 Mark the game as executable for Linux via "chmod +x GameLinux.x86_64" or via "rightclick -> mark as executable file"
-The Project was 
+
 
 ## Funding 
 This project was funded by EIT Health under grant id: 19340
