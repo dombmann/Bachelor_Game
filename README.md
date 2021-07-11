@@ -1,6 +1,7 @@
 # Bachelor_Game
 This game was created for my Bachelor Thesis "Interactive Visualisation to assess Hand Kinematics" 
-and can be played by anyone with access to a Leap Motion Controller.
+and can be played by anyone with access to a Leap Motion Controller. This repository contains all the necessary files to play the game as an executable file. 
+For the Unity Project see section "Furter Work".
 
 ## Requirements 
 * Leap Motion V2 with v2.3.1 Tracking SDK 
@@ -33,5 +34,9 @@ A: Move slow, don't obstruct the Leap's view towards the fingers, spread unused 
   
 ## Further Work
 
-Website/Repository where the game can be found as an extendable Unity Project.
-For now just contact me if you want to use this as a basis.
+Repository where the game can be found as an Unity Project, which can be modified and extended.
+For now just contact me if you want to get access to the unity project data.
+
+Part of the Thesis was turned into an Abstract to participate in the ISB 2021 Conference. 
+The Abstract was accepted and given a poster presentation which will be held on 29.07.2021.
+Materials from this participation is found in the ISB Folder.
