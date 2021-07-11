@@ -45,6 +45,6 @@ A: Move slow, don't obstruct the Leap's view towards the fingers, spread unused 
 Repository where the game can be found as an Unity Project, which can be modified and extended.
 For now just contact me if you want to get access to the unity project data.
 
-Part of the Thesis was turned into an Abstract to participate in the ISB 2021 Conference. 
-The Abstract was accepted and given a poster presentation which will be held on 29.07.2021.
+Part of the Thesis was turned in as an Abstract to participate in the ISB 2021 Conference. 
+The Abstract was accepted and given allowed a poster presentation which will be held on 29.07.2021.
 Materials from this participation is found in the ISB Folder.
