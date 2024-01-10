@@ -1,26 +1,22 @@
 # Bachelor_Game
-This game was created for my Bachelor Thesis "Interactive Visualisation to assess Hand Kinematics" 
-and can be played by anyone with access to a Leap Motion Controller. This repository contains all the necessary files to play the game as an executable file. 
-For the Unity Project see section "Furter Work".
+
+This game was developed as part of my Bachelor Thesis titled "Interactive Visualization to Assess Hand Kinematics." The game is designed to be played using a Leap Motion Controller, and this repository includes all the necessary files for running the game as an executable.
 
 ## Requirements 
 * Leap Motion V2 with v2.3.1 Tracking SDK 
-* A physical Leap Motion Controller 
+* Physical Leap Motion Controller 
 * Tested on Windows 7 and Linux Ubuntu 18.04
-* Process "leapd" must be running (either from Terminal on Linux or via the Leap Motion Controll panel on windows)
+* Ensure the "leapd" process is running (either from Terminal on Linux or via the Leap Motion Control Panel on Windows)
  
 ## Notes 
-If tracking appears to be very unstable check the quality via the "Visualizer" (Leap build-in Tool) and ensure the Leap Motion 
-Controller is calibrated to a value of at least 90. 
-Mark the game as executable for Linux via "chmod +x GameLinux.x86_64" or via "rightclick -> mark as executable file"
-
+If tracking appears unstable, check the quality using the "Visualizer" (Leap's built-in tool) and calibrate the Leap Motion Controller to a value of at least 90. 
+For Linux, mark the game as executable via "chmod +x GameLinux.x86_64" or by right-clicking and selecting "mark as executable file."
 
 ## Funding 
-This project was funded by EIT Health under grant id: 19340
+This project received funding from EIT Health under grant id: 19340.
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
-This work is licensed under a
-[Creative Commons Attribution 4.0 International License][cc-by].
+This work is licensed under a [Creative Commons Attribution 4.0 International License][cc-by].
 
 [![CC BY 4.0][cc-by-image]][cc-by]
 
@@ -28,23 +24,18 @@ This work is licensed under a
 [cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
 [cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
 
-## FAQ: 
-F: Where is the captured data stored?  
-A: For the Linux Build in the GameLinux_Data/Captured folder
-   For the Windows Build in the Hand_Kinematics_Game_Data/Captured folder
+## FAQ 
+**Q:** Where is the captured data stored?  
+**A:** For the Linux Build, in the GameLinux_Data/Captured folder. For the Windows Build, in the Hand_Kinematics_Game_Data/Captured folder.
 
-F: How to change handmodels?  
-A: Press left or right arrow key in a level (won't change in the menues)
+**Q:** How to change hand models?  
+**A:** Press the left or right arrow key in a level (won't change in the menus).
 
-F: How to improve gameplay?  
-A: Move slow, don't obstruct the Leap's view towards the fingers, spread unused fingers appart, use only pinch grips.
-   Pay attention to the visual feedback (especially the changing colours)
-  
+**Q:** How to improve gameplay?  
+**A:** Move slowly, avoid obstructing the Leap's view of the fingers, spread unused fingers apart, and use only pinch grips. Pay attention to the visual feedback, especially the changing colors.
+
 ## Further Work
 
-Repository where the game can be found as an Unity Project, which can be modified and extended.
-For now just contact me if you want to get access to the unity project data.
+The Unity Project for the game is available in a separate repository, allowing for modifications and extensions. Contact me for access to the Unity project data.
 
-Part of the Thesis was turned in as an Abstract to participate in the ISB 2021 Conference. 
-The Abstract was accepted and allowed a poster presentation which will be held on 29.07.2021.
-Materials from this participation is found in the ISB Folder.
+As part of the Thesis, an abstract was submitted for participation in the ISB 2021 Conference. The abstract was accepted, and a poster presentation is scheduled for 29.07.2021. Materials related to this participation can be found in the ISB Folder.
